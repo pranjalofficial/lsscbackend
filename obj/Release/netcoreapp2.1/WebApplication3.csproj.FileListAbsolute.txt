@@ -1,0 +1,17 @@
+C:\Users\Pranjal\source\repos\WebApplication3\WebApplication3\bin\Release\netcoreapp2.1\appsettings.Development.json
+C:\Users\Pranjal\source\repos\WebApplication3\WebApplication3\bin\Release\netcoreapp2.1\appsettings.json
+C:\Users\Pranjal\source\repos\WebApplication3\WebApplication3\bin\Release\netcoreapp2.1\WebApplication3.deps.json
+C:\Users\Pranjal\source\repos\WebApplication3\WebApplication3\bin\Release\netcoreapp2.1\WebApplication3.runtimeconfig.json
+C:\Users\Pranjal\source\repos\WebApplication3\WebApplication3\bin\Release\netcoreapp2.1\WebApplication3.runtimeconfig.dev.json
+C:\Users\Pranjal\source\repos\WebApplication3\WebApplication3\bin\Release\netcoreapp2.1\WebApplication3.dll
+C:\Users\Pranjal\source\repos\WebApplication3\WebApplication3\bin\Release\netcoreapp2.1\WebApplication3.pdb
+C:\Users\Pranjal\source\repos\WebApplication3\WebApplication3\obj\Release\netcoreapp2.1\WebApplication3.csprojAssemblyReference.cache
+C:\Users\Pranjal\source\repos\WebApplication3\WebApplication3\obj\Release\netcoreapp2.1\WebApplication3.AssemblyInfoInputs.cache
+C:\Users\Pranjal\source\repos\WebApplication3\WebApplication3\obj\Release\netcoreapp2.1\WebApplication3.AssemblyInfo.cs
+C:\Users\Pranjal\source\repos\WebApplication3\WebApplication3\obj\Release\netcoreapp2.1\WebApplication3.csproj.CoreCompileInputs.cache
+C:\Users\Pranjal\source\repos\WebApplication3\WebApplication3\obj\Release\netcoreapp2.1\WebApplication3.RazorAssemblyInfo.cache
+C:\Users\Pranjal\source\repos\WebApplication3\WebApplication3\obj\Release\netcoreapp2.1\WebApplication3.RazorAssemblyInfo.cs
+C:\Users\Pranjal\source\repos\WebApplication3\WebApplication3\obj\Release\netcoreapp2.1\WebApplication3.RazorTargetAssemblyInfo.cache
+C:\Users\Pranjal\source\repos\WebApplication3\WebApplication3\obj\Release\netcoreapp2.1\WebApplication3.dll
+C:\Users\Pranjal\source\repos\WebApplication3\WebApplication3\obj\Release\netcoreapp2.1\WebApplication3.pdb
+C:\Users\Pranjal\source\repos\WebApplication3\WebApplication3\obj\Release\netcoreapp2.1\WebApplication3.genruntimeconfig.cache
